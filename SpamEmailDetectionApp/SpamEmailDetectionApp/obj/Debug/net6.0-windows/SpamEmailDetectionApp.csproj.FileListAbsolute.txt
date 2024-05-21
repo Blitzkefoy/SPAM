@@ -1,0 +1,16 @@
+C:\Users\My Pc\source\repos\SpamEmailDetectionApp\SpamEmailDetectionApp\bin\Debug\net6.0-windows\SpamEmailDetectionApp.exe
+C:\Users\My Pc\source\repos\SpamEmailDetectionApp\SpamEmailDetectionApp\bin\Debug\net6.0-windows\SpamEmailDetectionApp.deps.json
+C:\Users\My Pc\source\repos\SpamEmailDetectionApp\SpamEmailDetectionApp\bin\Debug\net6.0-windows\SpamEmailDetectionApp.runtimeconfig.json
+C:\Users\My Pc\source\repos\SpamEmailDetectionApp\SpamEmailDetectionApp\bin\Debug\net6.0-windows\SpamEmailDetectionApp.dll
+C:\Users\My Pc\source\repos\SpamEmailDetectionApp\SpamEmailDetectionApp\bin\Debug\net6.0-windows\SpamEmailDetectionApp.pdb
+C:\Users\My Pc\source\repos\SpamEmailDetectionApp\SpamEmailDetectionApp\obj\Debug\net6.0-windows\SpamEmailDetectionApp.Form1.resources
+C:\Users\My Pc\source\repos\SpamEmailDetectionApp\SpamEmailDetectionApp\obj\Debug\net6.0-windows\SpamEmailDetectionApp.csproj.GenerateResource.cache
+C:\Users\My Pc\source\repos\SpamEmailDetectionApp\SpamEmailDetectionApp\obj\Debug\net6.0-windows\SpamEmailDetectionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My Pc\source\repos\SpamEmailDetectionApp\SpamEmailDetectionApp\obj\Debug\net6.0-windows\SpamEmailDetectionApp.AssemblyInfoInputs.cache
+C:\Users\My Pc\source\repos\SpamEmailDetectionApp\SpamEmailDetectionApp\obj\Debug\net6.0-windows\SpamEmailDetectionApp.AssemblyInfo.cs
+C:\Users\My Pc\source\repos\SpamEmailDetectionApp\SpamEmailDetectionApp\obj\Debug\net6.0-windows\SpamEmailDetectionApp.csproj.CoreCompileInputs.cache
+C:\Users\My Pc\source\repos\SpamEmailDetectionApp\SpamEmailDetectionApp\obj\Debug\net6.0-windows\SpamEmailDetectionApp.dll
+C:\Users\My Pc\source\repos\SpamEmailDetectionApp\SpamEmailDetectionApp\obj\Debug\net6.0-windows\refint\SpamEmailDetectionApp.dll
+C:\Users\My Pc\source\repos\SpamEmailDetectionApp\SpamEmailDetectionApp\obj\Debug\net6.0-windows\SpamEmailDetectionApp.pdb
+C:\Users\My Pc\source\repos\SpamEmailDetectionApp\SpamEmailDetectionApp\obj\Debug\net6.0-windows\SpamEmailDetectionApp.genruntimeconfig.cache
+C:\Users\My Pc\source\repos\SpamEmailDetectionApp\SpamEmailDetectionApp\obj\Debug\net6.0-windows\ref\SpamEmailDetectionApp.dll
